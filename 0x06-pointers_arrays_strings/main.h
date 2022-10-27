@@ -5,3 +5,8 @@ int _strcmp(char *s1, char *s2);
 void reverse_array(int *a, int n);
 char *string_toupper(char *);
 char *cap_string(char *);
+<<<<<<< HEAD
+=======
+char *leet(char *);
+char *rot13(char *);
+>>>>>>> cf25b2ea29c651e0e0d75226a0cbf8168078b1d6
