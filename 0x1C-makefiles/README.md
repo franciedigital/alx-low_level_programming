@@ -1,0 +1,5 @@
+In software development, a "make" is a build automation tool used to compile and build executable programs or libraries from source code. It automates the process of building software, which involves compiling source code into object files and then linking them to create executable files or libraries.
+
+A "makefile" is a text file that contains a set of instructions or rules used by the make tool to build a software project. It specifies the dependencies between the source files, object files, and the executable files, and it also defines the commands to be executed to build the project.
+
+Makefiles are used to simplify the build process, automate the compilation and linking process, and to manage the dependencies between different parts of the project. They are commonly used in software development projects that use the C, C++, or other programming languages that support make.
