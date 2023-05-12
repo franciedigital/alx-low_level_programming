@@ -48,5 +48,6 @@ void free_skiplist(skiplist_t *);
 
 int linear_search(int *, size_t, int);
 int binary_search(int *, size_t, int);
+int jump_search(int *, size_t, int);
 
 #endif
