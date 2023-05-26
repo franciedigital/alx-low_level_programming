@@ -51,5 +51,6 @@ int binary_search(int *, size_t, int);
 int jump_search(int *, size_t, int);
 int interpolation_search(int *, size_t, int);
 int exponential_search(int *, size_t, int);
+skiplist_t *linear_skip(skiplist_t *, int);
 
 #endif
